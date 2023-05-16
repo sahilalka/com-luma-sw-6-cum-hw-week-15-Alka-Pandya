@@ -1,0 +1,107 @@
+2023-05-16 18:05:343 INFO  GearTestPage :76 - MouseHover on gearMenu 
+2023-05-16 18:05:742 INFO  GearTestPage :81 - Click on Bags 
+2023-05-16 18:05:919 INFO  GearTestPage :86 - Click on Product Name ‘Overnight Duffle’ 
+2023-05-16 18:05:259 INFO  GearTestPage :91 - Get text from the Product Name ‘Overnight Duffle’ 
+2023-05-16 18:05:490 INFO  GearTestPage :101 - Clear an element 
+2023-05-16 18:05:631 INFO  GearTestPage :96 - Change Qty 3 
+2023-05-16 18:05:829 INFO  GearTestPage :106 - Click on ‘Add to Cart’ Button. 
+2023-05-16 18:05:971 INFO  GearTestPage :112 - Get text from the ‘You added Overnight Duffle to your shopping cart.’ 
+2023-05-16 18:05:457 INFO  GearTestPage :117 - Click on ‘shopping cart’
+2023-05-16 18:05:811 INFO  GearTestPage :122 - Get text from the product name ‘Overnight Duffle’ 
+2023-05-16 18:05:851 INFO  GearTestPage :127 - Get text from the Qty '3' 
+2023-05-16 18:05:889 INFO  GearTestPage :132 - Get text from the product price ‘$135.00’ 
+2023-05-16 18:05:911 INFO  GearTestPage :148 - clearAnElementFromUpdatedShoppingCart
+2023-05-16 18:05:16 INFO  GearTestPage :137 - update the ShoppingCart 
+2023-05-16 18:05:86 INFO  GearTestPage :154 - Get text from the product price '$225.00’  
+2023-05-16 18:05:988 INFO  MenTestPage :72 - MouseHover on menMenu 
+2023-05-16 18:05:07 INFO  MenTestPage :77 - MouseHover on bottomMenu 
+2023-05-16 18:05:648 INFO  WomenTestPage :45 - mouseHoverOnWomenMenu
+2023-05-16 18:05:642 INFO  WomenTestPage :50 - mouseHoverOnTops
+2023-05-16 18:05:796 INFO  WomenTestPage :55 - clickOnJackets
+2023-05-16 18:05:776 INFO  WomenTestPage :60 - Get selection by sorting filter
+2023-05-16 18:05:229 INFO  WomenTestPage :70 - Get the product name verification
+2023-05-16 18:05:462 INFO  WomenTestPage :70 - Get the product name verification
+2023-05-16 18:05:642 INFO  WomenTestPage :70 - Get the product name verification
+2023-05-16 18:05:703 INFO  WomenTestPage :45 - mouseHoverOnWomenMenu
+2023-05-16 18:05:174 INFO  WomenTestPage :50 - mouseHoverOnTops
+2023-05-16 18:05:332 INFO  WomenTestPage :55 - clickOnJackets
+2023-05-16 18:05:656 INFO  WomenTestPage :60 - Get selection by sorting filter
+2023-05-16 18:05:64 INFO  WomenTestPage :82 - Get the product price verification
+2023-05-16 18:05:156 INFO  WomenTestPage :82 - Get the product price verification
+2023-05-16 18:05:262 INFO  WomenTestPage :82 - Get the product price verification
+2023-05-16 19:05:02 INFO  GearTestPage :76 - MouseHover on gearMenu 
+2023-05-16 19:05:418 INFO  GearTestPage :81 - Click on Bags 
+2023-05-16 19:05:402 INFO  GearTestPage :86 - Click on Product Name ‘Overnight Duffle’ 
+2023-05-16 19:05:437 INFO  GearTestPage :91 - Get text from the Product Name ‘Overnight Duffle’ 
+2023-05-16 19:05:561 INFO  GearTestPage :101 - Clear an element 
+2023-05-16 19:05:671 INFO  GearTestPage :96 - Change Qty 3 
+2023-05-16 19:05:750 INFO  GearTestPage :106 - Click on ‘Add to Cart’ Button. 
+2023-05-16 19:05:896 INFO  GearTestPage :112 - Get text from the ‘You added Overnight Duffle to your shopping cart.’ 
+2023-05-16 19:05:964 INFO  GearTestPage :117 - Click on ‘shopping cart’
+2023-05-16 19:05:525 INFO  GearTestPage :122 - Get text from the product name ‘Overnight Duffle’ 
+2023-05-16 19:05:630 INFO  GearTestPage :127 - Get text from the Qty '3' 
+2023-05-16 19:05:741 INFO  GearTestPage :132 - Get text from the product price ‘$135.00’ 
+2023-05-16 19:05:815 INFO  GearTestPage :148 - clearAnElementFromUpdatedShoppingCart
+2023-05-16 19:05:963 INFO  GearTestPage :137 - update the ShoppingCart 
+2023-05-16 19:05:45 INFO  GearTestPage :154 - Get text from the product price '$225.00’  
+2023-05-16 19:05:939 INFO  MenTestPage :72 - MouseHover on menMenu 
+2023-05-16 19:05:578 INFO  MenTestPage :77 - MouseHover on bottomMenu 
+2023-05-16 19:05:718 INFO  MenTestPage :82 - Clicking on Pants
+2023-05-16 19:05:673 INFO  MenTestPage :88 - MouseHover and click on cronusYogaPant 
+2023-05-16 19:05:934 INFO  MenTestPage :93 - MouseHover and click on colourBlack 
+2023-05-16 19:05:110 INFO  MenTestPage :98 - Clicking on addToCart
+2023-05-16 19:05:170 INFO  MenTestPage :107 - Get text from the ‘You added Cronus Yoga Pant to your shopping cart.’ 
+2023-05-16 19:05:53 INFO  MenTestPage :103 - Clicking on shoppingCartLink
+2023-05-16 19:05:864 INFO  MenTestPage :112 - Get text from shoppingCart ‘Shopping Cart.’
+2023-05-16 19:05:975 INFO  MenTestPage :117 - Get text from productName ‘Cronus Yoga Pant’
+2023-05-16 19:05:73 INFO  MenTestPage :123 - Get text from productSize ‘32’
+2023-05-16 19:05:188 INFO  MenTestPage :128 - Get text from productColour ‘Black’ 
+2023-05-16 19:05:537 INFO  WomenTestPage :45 - mouseHoverOnWomenMenu
+2023-05-16 19:05:221 INFO  WomenTestPage :50 - mouseHoverOnTops
+2023-05-16 19:05:360 INFO  WomenTestPage :55 - clickOnJackets
+2023-05-16 19:05:344 INFO  WomenTestPage :60 - Get selection by sorting filter
+2023-05-16 19:05:667 INFO  WomenTestPage :70 - Get the product name verification
+2023-05-16 19:05:772 INFO  WomenTestPage :70 - Get the product name verification
+2023-05-16 19:05:874 INFO  WomenTestPage :70 - Get the product name verification
+2023-05-16 19:05:111 INFO  WomenTestPage :45 - mouseHoverOnWomenMenu
+2023-05-16 19:05:808 INFO  WomenTestPage :50 - mouseHoverOnTops
+2023-05-16 19:05:953 INFO  WomenTestPage :55 - clickOnJackets
+2023-05-16 19:05:113 INFO  WomenTestPage :60 - Get selection by sorting filter
+2023-05-16 22:05:869 INFO  GearTestPage :76 - MouseHover on gearMenu 
+2023-05-16 22:05:298 INFO  GearTestPage :81 - Click on Bags 
+2023-05-16 22:05:599 INFO  GearTestPage :86 - Click on Product Name ‘Overnight Duffle’ 
+2023-05-16 22:05:705 INFO  GearTestPage :91 - Get text from the Product Name ‘Overnight Duffle’ 
+2023-05-16 22:05:833 INFO  GearTestPage :101 - Clear an element 
+2023-05-16 22:05:925 INFO  GearTestPage :96 - Change Qty 3 
+2023-05-16 22:05:01 INFO  GearTestPage :106 - Click on ‘Add to Cart’ Button. 
+2023-05-16 22:05:132 INFO  GearTestPage :112 - Get text from the ‘You added Overnight Duffle to your shopping cart.’ 
+2023-05-16 22:05:595 INFO  GearTestPage :117 - Click on ‘shopping cart’
+2023-05-16 22:05:631 INFO  GearTestPage :122 - Get text from the product name ‘Overnight Duffle’ 
+2023-05-16 22:05:667 INFO  GearTestPage :127 - Get text from the Qty '3' 
+2023-05-16 22:05:718 INFO  GearTestPage :132 - Get text from the product price ‘$135.00’ 
+2023-05-16 22:05:748 INFO  GearTestPage :148 - clearAnElementFromUpdatedShoppingCart
+2023-05-16 22:05:853 INFO  GearTestPage :137 - update the ShoppingCart 
+2023-05-16 22:05:934 INFO  GearTestPage :154 - Get text from the product price '$225.00’  
+2023-05-16 22:05:363 INFO  MenTestPage :72 - MouseHover on menMenu 
+2023-05-16 22:05:905 INFO  MenTestPage :77 - MouseHover on bottomMenu 
+2023-05-16 22:05:52 INFO  MenTestPage :82 - Clicking on Pants
+2023-05-16 22:05:119 INFO  MenTestPage :88 - MouseHover and click on cronusYogaPant 
+2023-05-16 22:05:292 INFO  MenTestPage :93 - MouseHover and click on colourBlack 
+2023-05-16 22:05:437 INFO  MenTestPage :98 - Clicking on addToCart
+2023-05-16 22:05:508 INFO  MenTestPage :107 - Get text from the ‘You added Cronus Yoga Pant to your shopping cart.’ 
+2023-05-16 22:05:733 INFO  MenTestPage :103 - Clicking on shoppingCartLink
+2023-05-16 22:05:604 INFO  MenTestPage :112 - Get text from shoppingCart ‘Shopping Cart.’
+2023-05-16 22:05:766 INFO  MenTestPage :117 - Get text from productName ‘Cronus Yoga Pant’
+2023-05-16 22:05:853 INFO  MenTestPage :123 - Get text from productSize ‘32’
+2023-05-16 22:05:902 INFO  MenTestPage :128 - Get text from productColour ‘Black’ 
+2023-05-16 22:05:950 INFO  WomenTestPage :45 - mouseHoverOnWomenMenu
+2023-05-16 22:05:460 INFO  WomenTestPage :50 - mouseHoverOnTops
+2023-05-16 22:05:617 INFO  WomenTestPage :55 - clickOnJackets
+2023-05-16 22:05:704 INFO  WomenTestPage :60 - Get selection by sorting filter
+2023-05-16 22:05:228 INFO  WomenTestPage :70 - Get the product name verification
+2023-05-16 22:05:334 INFO  WomenTestPage :70 - Get the product name verification
+2023-05-16 22:05:442 INFO  WomenTestPage :70 - Get the product name verification
+2023-05-16 22:05:190 INFO  WomenTestPage :45 - mouseHoverOnWomenMenu
+2023-05-16 22:05:757 INFO  WomenTestPage :50 - mouseHoverOnTops
+2023-05-16 22:05:949 INFO  WomenTestPage :55 - clickOnJackets
+2023-05-16 22:05:984 INFO  WomenTestPage :60 - Get selection by sorting filter
